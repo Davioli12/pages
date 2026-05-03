@@ -1,0 +1,38 @@
+[
+    {
+        "repo": "Davioli12",
+        "descricao": "Portfolio pessoal do Davi Oliveira, um desenvolvedor apaixonado por tecnologia e inovação. Este repositório contém projetos, experiências e conquistas que refletem minha jornada no mundo da programação e desenvolvimento de software.",
+        "link": "https://davioli12.github.io/portifolio/",
+        "linguagem": "HTML/CSS/JavaScript"
+    },
+    {
+        "repo": "portifolio",
+        "view": false
+    },
+    {
+        "repo": "games",
+        "view": false
+    },
+    {
+        "repo": "pages",
+        "view": false
+    },
+    {
+        "repo": "updater",
+        "view": false
+    },
+    {
+        "repo": "SomDuin",
+        "descricao": "Projeto de som com arduino",
+        "linguagem": "Python"
+    },
+    {
+        "repo": "VolanteApp",
+        "descricao": "Projeto de um aplicativo de volante para jogos de corrida",
+        "linguagem": "Python"
+    },
+    {
+        "repo": "IA-background",
+        "descricao": "Projeto de uma IA para gerar fundos de tela personalizados"
+    }
+]
